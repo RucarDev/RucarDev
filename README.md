@@ -20,7 +20,7 @@ Apasionado en todo lo relacionado a la **Inteligencia Artificial**, la **Ciberse
 | **Herramientas y Entornos** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ## 📊 Mis Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true&align=center)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RucarDev&show_icons=true&theme=radical&hide_border=true&align=center)
 
 ## 📫 Contactos
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-padilla-avi-22677a34b)
