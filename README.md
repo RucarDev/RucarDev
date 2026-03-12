@@ -1,14 +1,14 @@
 # ¡Hola, soy Carlos! 👋 
 
 ### 🎓 Estudiante de Ingeniería Informática @ Universidad de Jaén (UJA)
-Apasionado en todo lo relacionado a la **Inteligencia Artificial**, la **Ciberseguridad**, **Programación** y el **Desarrollo Web**.
+Apasionado por todo lo relacionado con la **Inteligencia Artificial**, la **Ciberseguridad**, la **Programación** y el **Desarrollo Web**.
 
 ---
 
 ## 🚀 Sobre mí
 - 💻 Actualmente estudiando en la universidad mientras creo e investigo en distintos proyectos.
 - 🛡️ Entusiasta de la **Ciberseguridad** y el hacking ético.
-- 📚 Aprendizaje continuo, realizando cursoso que amplien mis habilidades, conocimientos y productividad.
+- 📚 Aprendizaje continuo, realizando cursos que amplíen mis habilidades, conocimientos y productividad.
 - 📍 Basado en Jaén, España.
 
 ## 🛠️ Stack Tecnológico
@@ -22,6 +22,6 @@ Apasionado en todo lo relacionado a la **Inteligencia Artificial**, la **Ciberse
 ## 📊 Mis Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RucarDev&show_icons=true&theme=radical&hide_border=true&align=center)
 
-## 📫 Contactos
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-padilla-avi-22677a34b)
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-padilla-avi-22677a34b)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cpa00037@red.ujaen.es)
